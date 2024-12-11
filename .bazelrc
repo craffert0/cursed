@@ -1,0 +1,5 @@
+build --compilation_mode=dbg
+build --copt="-Werror"
+build --copt="-std=c++17"
+
+test --test_output=errors
