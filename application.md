@@ -78,4 +78,4 @@ September 2024.
 
 # Demographic info
 
-I'm a white cis man. ¯\_(ツ)_/¯ 
+I'm a white cis man. `¯\_(ツ)_/¯`
