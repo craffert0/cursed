@@ -22,6 +22,12 @@ void Server::serve(Socket& sock) {
   } catch (const Exception& e) {
     cerr << e.code() << ": " << e.what() << endl;
     reply(sock, e.code(), e.what());
+  } catch (const exception& e) {
+    cerr << e.what() << endl;
+    reply(sock, 500, e.what());
+  } catch (...) {
+    cerr << "unknown exception" << endl;
+    reply(sock, 500, "unknown exception");
   }
 }
 
