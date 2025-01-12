@@ -26,33 +26,35 @@ What's pretty wild about this is that one of the reasons the allied powers gave 
 
 Traveling the world and writing [home cooked apps](https://www.robinsloan.com/notes/home-cooked-app/) for myself, family, and friends.
 
-I might instead be writing software for an organization that is a net positive on the world. I was doing that the past six years, writing firmware for Citibike's bikes.
+I might instead be writing software for an organization that is a net positive in the world. I was doing that the past six years, writing firmware for Citibike's bikes. After donating to organizations fighting for safer streets, it was wonderful being paid to help get more people on bikes.
+
+And given what I've learned about Recurse Center, I expect to continue to be involved. It seems like a great place.
 
 # Why do you want to attend RC? How would attending RC be different than working on your own?
 
 In my semi-retirement, I want to write programs for myself and my family. I've always worked on teams, and even when I'm the sole member, I've always had other people to bounce ideas off of. I can use my time at recurse to have the support of people around me, but also train myself to be doing things on my own.
 
+Also, throughout my career, I've always thought that my most important job was making sure everyone around me is succeeding, and I miss that already. I hope that I'd be able to 
+
 # What would you like to work on at RC?
 
-I want to teach myself modern Swift and write a Bluesky iPad app that I'd want to use. With my experience working on the Facebook iPhone app infrastructure 8 years ago, I have pretty good ideas about the structure of how best to do it. But the language and UI are a mystery for me to solve.
+I want to teach myself modern Swift and write a Bluesky iPad app that I'd want to use. With my experience working on the Facebook iPhone app infrastructure 8 years ago, I have pretty good ideas about the structure of how best to do it. But the language and UI are a mystery for me to solve. Ideally, along with help from my fellow recursors.
 
 # Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
 This would be in-person. And given why I want to recurse, I'm hoping that everyone would be in-person.
 
-I live an easy 15 minute bike ride away just up the hill in Prospect Heights.
+I live an easy 15 minute subway or bike ride away, just up the hill in Prospect Heights.
 
 # Describe your programming background in a few sentences.
 
-I graduated college in 1987, and except for a 6 month hiatus in 92/93, I've been programming professionally since then. Almost all of it was C and C++, with some Java and Objective C thrown in.
+I accidentally took an Intro to CS course in a summer program in High School in 1982, and realized that this is what I want to do forever. I graduated college in 1987 and have been programming professionally since then.
 
-My first five years, I wrote software controlling machines, starting with a machine growing GaAs crystals, ending with displaying scores on character generators for NBC at the Barcelona Olympics. 
+My first five years, I wrote software controlling machines over serial ports, starting with a machine growing GaAs crystals, ending with displaying scores on character generators for NBC at the Barcelona Olympics. 
 
-The next 15 years were in investment banks, writing progressively more sophisticated software building on the earlier applications. In the beginning it was a simple as tracking positions and P&L, and by the end, doing automated trading. The software was slowly up the corporate hierarchy putting people out of work. And making money for rich people.
+The next 25 years, I wrote software that just talked to other software, at various investment banks and Internet companies. The difficulty level increased, but I grew with it.
 
-Then I had 2 years at Google and 7 years at Facebook. Not making workers obsolete.
-
-My last 7 years were at Lyft, with the final 6 writing firmware for bikes a scooters. And all of a sudden I'm writing at the lower level as I did back in the 80s, but with much more experience.
+The past 6 years, I've been closer to my roots writing firmware for bikes and scooters at Lyft. I'm writing at the lower level as I did back in the 80s, but with much more experience, and better tools.
 
 # Have you worked professionally as a programmer?
 
@@ -70,7 +72,7 @@ At worst, if I decide that I do want to go back to work, I might have some inter
 
 # How did you first hear about RC?
 
-Peter Fraenkel (Recurse alum).
+Peter Fraenkel (Recurse alum and former co-worker).
 
 # How long ago did you first hear about RC?
 
