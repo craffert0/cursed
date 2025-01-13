@@ -42,9 +42,9 @@ I want to teach myself modern Swift and write a Bluesky iPad app that I'd want t
 
 # Do you plan to attend RC in-person, remotely, or some combination of the two? How will this affect your working style?
 
-This would be in-person. And given why I want to recurse, I'm hoping that everyone would be in-person.
+This would be in-person. And given why I want to recurse, I'm hoping that everyone would be in-person. I live an easy 15 minute subway or bike ride away, just up the hill in Prospect Heights.
 
-I live an easy 15 minute subway or bike ride away, just up the hill in Prospect Heights.
+My 6 years at Lyft bikes & scooters, I was effectively a remote employee in the NYC office. The rest of the firmware team was in SF. I stayed in constant communication with them, never hesitating to ask questions and advice. The real challenge was that I was learning firmware from them, and also teaching them proper C++. What made it work was always knowing what everyone is responsible for, and just doing what I needed.
 
 # Describe your programming background in a few sentences.
 
@@ -77,6 +77,10 @@ Peter Fraenkel (Recurse alum and former co-worker).
 # How long ago did you first hear about RC?
 
 September 2024.
+
+# What convinced you to apply today?
+
+"It aligns with my family schedule"
 
 # Demographic info
 
