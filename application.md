@@ -34,7 +34,7 @@ And given what I've learned about Recurse Center, I expect to continue to be inv
 
 In my semi-retirement, I want to write programs for myself and my family. I've always worked on teams, and even when I'm the sole member, I've always had other people to bounce ideas off of. I can use my time at recurse to have the support of people around me, but also train myself to be doing things on my own.
 
-Also, throughout my career, I've always thought that my most important job was making sure everyone around me is succeeding, and I miss that already. I hope that I'd be able to 
+Also, throughout my career, I've always thought that my most important job was making sure everyone around me is succeeding, and I miss that already. I hope that I'd be able to be a good source of experience for other recursors.
 
 # What would you like to work on at RC?
 
