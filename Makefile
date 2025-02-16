@@ -4,6 +4,7 @@ all:
 
 lint:
 	clang-format -i $(shell git diff --cached --name-only --diff-filter=ACM | egrep '.(cc|h)' 2>&1) /dev/null
+	swiftformat --quiet --swiftversion 6 $(shell git diff --cached --name-only --diff-filter=ACM | egrep '.swift' 2>&1)
 
 test: test_crackle test_bazel
 

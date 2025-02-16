@@ -3,3 +3,4 @@ All code Copyright Colin Rafferty and may only be distributed under the terms of
 - application.md: notes for the application
 - crackle/: implementation of [CracklePop](https://www.recurse.com/apply/retreat)
 - server/: implementation of [Database Server](https://www.recurse.com/pairing-tasks)
+- swift/: implementation in swift `swift run server`
