@@ -6,6 +6,8 @@ import PackageDescription
 let package = Package(
     name: "server",
 
+    platforms: [.macOS(.v12)],
+
     dependencies: [
         .package(url: "https://github.com/httpswift/swifter.git", .upToNextMajor(from: "1.5.0")),
     ],
@@ -18,6 +20,10 @@ let package = Package(
             dependencies: [
                 .product(name: "Swifter", package: "swifter"),
             ]
+        ),
+        .testTarget(
+            name: "tests",
+            dependencies: ["server"]
         ),
     ]
 )
