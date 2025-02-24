@@ -1,0 +1,3 @@
+import MyLibrary
+
+MyLibrary.hello()
